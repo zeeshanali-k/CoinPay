@@ -16,7 +16,7 @@ An unofficial crypto wallet app like MetaMask. It has all the features a wallet 
 </table>
 
 <li>Create and Import wallet</li>
-<li>Send and Recieve coins with support of multiple blockchains like Ethereum, Bitcoin, Selenium etc.</li>
+<li>Send and Recieve coins with support of multiple blockchains like Ethereum, Bitcoin, Solana etc.</li>
 <li>Add custom tokens manually along with provided ones.</li>
 <br>
 <br>
