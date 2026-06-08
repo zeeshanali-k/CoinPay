@@ -7,17 +7,9 @@ An unofficial crypto wallet app like MetaMask. It has all the features a wallet 
       <img src="Screenshot_20260608_093042.png" alt="Alt Text" width="300">
       <img src="Screenshot_20260608_093139.png" alt="Alt Text" width="300">
       <img src="Screenshot_20260608_093249.png" alt="Alt Text" width="300">
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img src="Screenshot_20260608_093344.png" alt="Alt Text" width="300">
       <img src="Screenshot_20260608_093413.png" alt="Alt Text" width="300">
       <img src="Screenshot_20260608_093433.png" alt="Alt Text" width="300">
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img src="Screenshot_20260608_093507.png" alt="Alt Text" width="300">
     </td>
   </tr>
